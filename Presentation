@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>ALICE'S PRESENTATION</h1>
+    
+    <img src="Profilo.jpeg" alt="La mia foto"
+    style="width: 150px;">
+    
+    <h2 style="background-color: rgb(255, 0, 238);">Hobbies e interessi</h2>
+    <ul>
+        <li>giochi da tavolo</li>
+        <li>educazione e psicologia</li>
+        <li>leggere romanzi</li>
+        <li>scrivere poesie</li>
+        <li>videogiochi vintage (adventure game, punta e clicca)</li>
+    </ul>
+    
+    <h2 style="background-color: aquamarine;"> Contact me</h2>
+    <p>
+    <a href="mailto:indirizzo@email.com"
+    style="color: rgb(0, 98, 255); ;"> alice.zarattani@gmail.it </a>
+    <p style="color: rgb(0, 98, 255);">3405856225</p>
+    <a href="https://www.facebook.com/alice.zarattani"
+    style="color: rgb(0, 98, 255);">Facebook</a>
+    </p>
+</body>
+</html>
